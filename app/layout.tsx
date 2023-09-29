@@ -1,4 +1,5 @@
 import './globals.css'
+import 'react-big-calendar/lib/css/react-big-calendar.css'
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 
